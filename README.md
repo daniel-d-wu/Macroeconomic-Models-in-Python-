@@ -8,6 +8,6 @@ There are three files in this repository:
 2. "mp_compile.ipynb"
       This file compiles the code from the previous file and produces tables of parameter values.
       
-3. "lrrmodel.ipynb"
+3. "lrr_model.ipynb"
       This file builds the Bansal and Yaron (2004) Long Run Risk Model.
 
