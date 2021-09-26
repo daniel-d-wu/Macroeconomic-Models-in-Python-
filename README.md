@@ -5,9 +5,10 @@ In the Finance and Economics academic literature, the "equity premium puzzle" re
 ## 1. "mp_compute.ipynb"  
       This file builds the Mehra and Prescott (1985) model. 
 
-### 2. "mp_compile.ipynb"
-      This file compiles the code from the previous file and produces tables of parameter values. The insight of this model is that risk aversion is calibrated to be ~15 (very high) in order to achieve an equity premium of 6-7%.   
+## 2. "mp_compile.ipynb"
+      This file compiles the code from the previous file and produces tables of parameter values. \n
+      The insight of this model is that risk aversion is calibrated to be ~15 (very high) in order to achieve an equity premium of 6-7%.   
       
-### 3. "lrr_model.ipynb"
+## 3. "lrr_model.ipynb"
       This file builds the Bansal and Yaron (2004) Long Run Risk Model.
 
